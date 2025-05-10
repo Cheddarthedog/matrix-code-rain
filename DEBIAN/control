@@ -1,0 +1,10 @@
+Package: matrixrain
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-wcwidth
+Maintainer: Jack jack.heslop1@gmail.com
+Description: Adaptive Matrix code rain simulator for the terminal
+ A fun, terminal-based Matrix code rain simulation written in Python.
+ Automatically adapts to your terminal size and adds visual glitches for realism.
