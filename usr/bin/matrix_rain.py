@@ -113,7 +113,7 @@ def main(stdscr):
         stdscr.refresh()
 
         # Exit if 'q' is pressed
-        if stdscr.getch() == ord('q'):
+        _ = getch()
             break
 
 curses.wrapper(main)
