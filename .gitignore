@@ -1,0 +1,35 @@
+# === Bytecode / temp ===
+__pycache__/
+*.py[cod]
+*.pyo
+
+# === PyInstaller build artifacts ===
+build/
+dist/
+*.spec
+
+# === Executables / installers ===
+*.exe
+*.deb
+*.AppImage
+*.msi
+
+# === Logs and metadata ===
+*.log
+*.toc
+*.pkg
+*.manifest
+*.pyz
+xref-*.html
+warn-*.txt
+
+# === Windows packaging outputs ===
+matrixrainwindows/
+
+# === Debian packaging folder (if not source) ===
+DEBIAN/
+
+# === Editor/OS files ===
+*.DS_Store
+Thumbs.db
+
