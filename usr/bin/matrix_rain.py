@@ -112,7 +112,7 @@ def main(stdscr):
         # Refresh the screen
         stdscr.refresh()
 
-        # Exit if 'q' is pressed
+        # Exit if key is pressed
         _ = getch()
             break
 
