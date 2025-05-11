@@ -2,8 +2,8 @@
 Version=1.0
 Name=Matrix Code Rain
 Comment=A retro matrix code rain simulation
-Exec=matrixrain
-Icon=/usr/share/icons/matrixrain.png
+Exec=/usr/bin/matrix_rain.py
+Icon=matrix-rain-app-thumbnail
 Terminal=true
 Type=Application
 Categories=Utility;Game;
